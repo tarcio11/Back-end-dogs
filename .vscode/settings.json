@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    // "node_modules": true,
+    ".vscode": true,
+    // "knexfile.ts": true,
+    ".gitignore": true,
+    // "package.json": true,
+    "package-lock.json": true,
+    "yarn.lock": true,
+    "yarn-error.log": true,
+    ".prettierrc": true,
+    "tsconfig.json": true,
+    ".eslintrc.json": true,
+    ".editorconfig": true
+  }
+}
